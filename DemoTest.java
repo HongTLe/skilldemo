@@ -8,6 +8,6 @@ public class DemoTest{
         array[0] = 1;
         array[1] = 2;
         array[2] = 3;
-        assertEquals(5, Demo.sum(array));
+        assertEquals(6, Demo.sum(array));
     }
 }
